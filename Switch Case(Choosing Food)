@@ -14,7 +14,7 @@ switch(fooditem)
   break;
   case 4 : printf("\n Food item - French Fries\n Price - Rs. 99");
   break;
-  case 5 : printf("\n Food item - Sandwich\n Price - Re. 149");
+  case 5 : printf("\n Food item - Sandwich\n Price - Rs. 149");
   break;
   default : printf("Enter a valid choice (1 to 5) only!");
   }
