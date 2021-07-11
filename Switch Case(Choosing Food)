@@ -3,7 +3,7 @@ int main ()
 {
 int fooditem;
 printf("Enter the number 1 to 5 to get some food");
-scanf("%d",&fooditem);
+scanf("%d", &fooditem);
 switch(fooditem)
  {
   case 1 : printf("\n Food item - Pizza\n Price - Rs. 239");
@@ -12,7 +12,7 @@ switch(fooditem)
   break;
   case 3 : printf("\n Food item - Pasta\n Price - Rs. 179");
   break;
-  case 4 : printf("\n Food item - Freanch Fries\n Price - Rs. 99");
+  case 4 : printf("\n Food item - French Fries\n Price - Rs. 99");
   break;
   case 5 : printf("\n Food item - Sandwich\n Price - Re. 149");
   break;
